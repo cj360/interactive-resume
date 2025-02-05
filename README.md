@@ -1,6 +1,5 @@
 # Interactive Resume with Streamlit and Ollama
 
-![Test AI interview](files/interactive-resume.gif)
 
 ## Overview
 
@@ -68,4 +67,4 @@ Please note that certain sections of this project might need customization to su
 
 4. *ui.py*: Holds my personal info so the interviewers can know more about my work.
 
-![Test 2 AI interview](files/interactive-resume1.png)
+
